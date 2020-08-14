@@ -1,0 +1,4 @@
+model.yml
+train_images/
+.vscode/
+__pycache__/
